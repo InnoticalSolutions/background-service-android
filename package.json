@@ -1,0 +1,23 @@
+{
+    "name": "cordova-plugin-background-service-android3",
+    "email": "kumaraman7056@gmail.com",
+    "version": "1.0.0",
+    "description": "A plugin to run background service",
+    "cordova": {
+      "id": "cordova-plugin-background-service-android3",
+      "platforms": [
+        "android"
+      ]
+    },
+    "keywords": [
+      "ecosystem:cordova",
+      "Cordova",
+      "Service",
+      "Android"
+    ],
+    "author": {
+      "name": "Aman Kumar, Chetanya Arora, Innotical Solutions Private Limited",
+      "email": "hello@innotical.com"
+    },
+    "license": "ISC"
+  }
